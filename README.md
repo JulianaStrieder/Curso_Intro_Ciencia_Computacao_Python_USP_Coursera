@@ -15,7 +15,7 @@ Abaixo segue algumas notas feitas durante as aulas.
 
 ### Manipulação de Listas
 
-- Fatias:
+- **Fatias**
 
 Seleciona os valores da lista baseando-se nos valores assumidos por início e fim:    
     
@@ -31,7 +31,7 @@ E também  o contrário, especificando onde iniciar a seleção, indo até o fim
 
     lista[início:]
 
-- Clonar
+- **Clonar**
 
 Para clonar uma lista utilize:
 
@@ -64,7 +64,7 @@ Agora, tente da seguinte maneira:
 
 
 
-Bibliografia que o curso adota: 
+## Bibliografia que o curso adota: 
 
-[Aulas Python - IME USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
-[Python Tutorial - documentação do Python](https://docs.python.org/3/tutorial/)
+- [Aulas Python - IME USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
+- [Python Tutorial - documentação do Python](https://docs.python.org/3/tutorial/)
