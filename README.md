@@ -1,10 +1,13 @@
  
-# Introdução à Ciência da Computação com Python - Parte 1 [(Coursera)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/)
+# Introdução à Ciência da Computação com Python - Parte 1 
 
-Este repositório reúne os scripts que utilizei para resolver os exercícios do curso. Abaixo segue algumas notas feitas durante as aulas.
+[(Coursera)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/)
+
+Este repositório reúne os scripts que utilizei para resolver os exercícios do curso. 
+Abaixo segue algumas notas feitas durante as aulas.
 
 
-## Listas
+## Notas sobre listas
 
 - coleções de objetos
 - array
