@@ -39,7 +39,7 @@ Para clonar uma lista utilize:
 
 Ao usar lista_clonada = lista, não é feito um clone, mas sim as duas listas apontam para o mesmo vetor. Desse modo, se for modificado um valor em lista_clonada, na lista original ele também será modificado. Experimente as linhas abaixo no Python:
 
-    lista_original = ['python', 'is' 'awesome']
+    lista_original = ['python', 'is', 'awesome']
 
     lista_clonada = lista_original
 
@@ -51,7 +51,7 @@ Ao usar lista_clonada = lista, não é feito um clone, mas sim as duas listas ap
 
 Agora, tente da seguinte maneira:
 
-    lista_original = ['python', 'is' 'awesome']
+    lista_original = ['python', 'is', 'awesome']
 
     lista_clonada = lista_original[:]
 
